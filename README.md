@@ -1,4 +1,4 @@
-# SysPilot
+# SysAdmin Copilot
 
 A safety-first sysadmin assistant with Gmail integration, powered by Claude 3.5 Sonnet.
 
